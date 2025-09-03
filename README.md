@@ -1,5 +1,5 @@
 # TheNahum
-
+---
 ## Blog:
 
 ```text
@@ -11,6 +11,6 @@ And hey, if I end up making anything cool this will be a pretty good starting po
 ```
 
 ## My Ideas:
-
+---
 ## Change The World?
 
