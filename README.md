@@ -2,7 +2,7 @@
 
 # Blog:
 
-| Hello World.<br><br>Hopefully, I will use this space to pour out some ideas and outline things I think of with regards to my life, career and, ambitions.<br><br>And hey, if I end up making anything cool this will be a pretty good starting point for the story. |
+|Hello World.<br><br>Hopefully, I will use this space to pour out some ideas and outline things I think of with regards to my life, career and, ambitions.<br><br>And hey, if I end up making anything cool this will be a pretty good starting point for the story.|
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
